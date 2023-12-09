@@ -1,0 +1,17 @@
+/* Your global styles, or use Bootstrap for styling */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
